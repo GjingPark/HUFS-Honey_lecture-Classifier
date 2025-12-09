@@ -4,6 +4,7 @@ import gdown
 import os
 import re
 import time
+import sentencepiece
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch.nn.functional as F
 
@@ -237,4 +238,5 @@ if st.session_state['analyzed']:
         st.session_state['result'] = {}
         st.session_state['feedback_submitted'] = False
         st.session_state['input_key'] += 1 
+
         st.rerun()
