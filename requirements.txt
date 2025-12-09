@@ -4,3 +4,4 @@ transformers
 gdown
 regex
 sentencepiece
+protobuf
