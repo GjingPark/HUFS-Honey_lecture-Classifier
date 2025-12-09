@@ -3,3 +3,4 @@ torch
 transformers
 gdown
 regex
+sentencepiece
