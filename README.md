@@ -27,3 +27,4 @@
    - 꿀강을 찾아 수강신청을 합니다.
 
 ### Credit : Gemini 3 pro를 사용하여 제작하였습니다.
+### Model : https://github.com/monologg/DistilKoBERT 
